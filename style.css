@@ -1,0 +1,131 @@
+.container {
+    margin-left:500px ;
+    margin-top: 40px;
+    width: 50%;
+    
+}
+.btns{
+    background-color: black;
+    border-radius: 10px;
+    font-size: 40px;
+    height: 400px;
+    width: 50%;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+
+.screen{
+    width: 49.5%;
+    height: 110px;
+    font-size: 45px;
+    background-color: black;
+    color: white;
+    outline: none;
+    border-bottom: 1px solid white;
+    border-top-style:none ;
+    border-left-style: none;
+    border-right-style: none;
+    border-radius: 10px;
+
+}
+.btn{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+.clear{
+   
+    border-style: none;
+    background-color: rgb(40, 117, 40);
+    color: rgb(4, 56, 4);
+    font-size: 25px;
+}
+
+.result{
+    
+    border-style: none;
+    background-color: rgb(40, 117, 40);
+    color: rgb(4, 56, 4);
+    font-size: 25px;
+}
+
+
+.button{
+    
+    height: 40px;
+    width: 130px;
+    background-color: green;
+    margin: auto;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    margin-left: 500px;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+.btns-new{
+    background-color: pink;
+    border-radius: 10px;
+    font-size: 40px;
+    height: 400px;
+    width: 50%;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border-radius: 10px;
+
+}
+
+.screen-new{
+    width: 49.5%;
+    height: 110px;
+    font-size: 45px;
+    background-color: rgba(29, 4, 29, 0.877);
+    color: white;
+    outline: none;
+    border-bottom: 1px solid white;
+    border-top-style:none ;
+    border-left-style: none;
+    border-right-style: none;
+    border-radius: 10px;
+
+}
+
+.btnNew{
+    background-color: rgba(29, 4, 29, 0.877);
+    color: white;
+    font-size: 30px;
+    border-style: none;
+}
+
+.clear-new{
+    
+    border-style: none;
+    background-color: rgb(241, 107, 130);
+    color: rgba(56, 6, 56, 0.877);
+    font-size: 25px;
+}
+
+.result-new{
+    
+    border-style: none;
+    background-color: rgb(241, 107, 130);
+    color:rgba(56, 6, 56, 0.877);
+    font-size: 25px;
+}
+.button-new{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(241, 107, 130);
+    margin: auto;
+    border-style: none;
+    border-radius: 10px;
+    color: rgba(56, 6, 56, 0.877);
+    margin-left: 500px;
+    margin-top: 15px;
+    font-size: 15px;
+}
